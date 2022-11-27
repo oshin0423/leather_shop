@@ -15,14 +15,14 @@
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.css">
   <link rel="stylesheet" href="https://use.typekit.net/lhd6lfm.css">
-  <link rel=“stylesheet” type=“text/css” href="<?php echo get_template_directory_uri(); ?>/css/style.css">
+  <link rel="stylesheet" href="/wp-content/themes/leather_shop/css/style.css">
   <link rel="stylesheet" href="./css/style.css">
 </head>
 
 <body>
   <header class="l-header">
     <div class="c-shop">
-        <h1 class="c-shop__icon"><img src ="img/header-logo_pc.png" alt="ヘッダーロゴ" width="52" height="52"></h1>
+        <h1 class="c-shop__icon"><img src ="/wp-content/themes/leather_shop/img/header-logo_pc.png" alt="ヘッダーロゴ" width="52" height="52"></h1>
         <p class="c-shop__text">店名が入ります</p>
     </div>
     <nav class="l-header__nav">
