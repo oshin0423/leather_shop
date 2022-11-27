@@ -20,7 +20,6 @@
 </head>
 
 <body>
-    <h1>test</h1>
   <header class="l-header">
     <div class="c-shop">
         <h1 class="c-shop__icon"><img src ="img/header-logo_pc.png" alt="ヘッダーロゴ" width="52" height="52"></h1>
