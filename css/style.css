@@ -11,10 +11,6 @@ body {
   font-size: 1.1vw;
 }
 
-h1 {
-  color: red;
-}
-
 dt {
   font-weight: 300;
 }
@@ -517,9 +513,12 @@ h2 {
   background-image: url(../img/picky_pc.png);
   width: 100%;
   height: 38.19vw;
-  background-size: cover;
   color: #fff;
   position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .p-picky:before {
   content: "";
