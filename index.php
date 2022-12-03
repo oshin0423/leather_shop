@@ -36,7 +36,7 @@
         </ul>
     </nav>
     <div class="l-header__burger-btn">
-        <img src="img/bars_sp.png" alt="ハンバーガーメニューの線">
+        <img src="/wp-content/themes/leather_shop/img/bars_sp.png" alt="ハンバーガーメニューの線">
         <p>MENU</p>
     </div>
   </header> 
@@ -57,9 +57,9 @@
   <main>
     <div id="p-mv">
         <div class="p-mv__slick">
-            <div><img src ="img/mv01_pc.png" alt="メインビジュアル01" width="1440" height="682"></div>
-            <div><img src ="img/mv02_pc.png" alt="メインビジュアル02" width="1440" height="682"></div>
-            <div><img src ="img/mv03_pc.png" alt="メインビジュアル03" width="1440" height="682"></div>
+            <div><img src ="/wp-content/themes/leather_shop/img/mv01_pc.png" alt="メインビジュアル01" width="1440" height="682"></div>
+            <div><img src ="/wp-content/themes/leather_shop/img/mv02_pc.png" alt="メインビジュアル02" width="1440" height="682"></div>
+            <div><img src ="/wp-content/themes/leather_shop/img/mv03_pc.png" alt="メインビジュアル03" width="1440" height="682"></div>
         </div>
         <div class="p-mv__text">
             <p>
@@ -84,8 +84,8 @@
             </div>
             <div class="p-about__right-box">
                 <picture>
-                    <source srcset="img/about_pc.png" media="(min-width: 769px)">
-		            <img src="img/about_sp.png" width="239" height="210" alt="革を加工している写真">
+                    <source srcset="/wp-content/themes/leather_shop/img/about_pc.png" media="(min-width: 769px)">
+		            <img class="para" src="/wp-content/themes/leather_shop/img/about_sp.png" width="239" height="210" alt="革を加工している写真">
                 </picture>
             </div>
         </div>
@@ -95,8 +95,8 @@
         <div class="p-concept">
             <div class="p-concept__left-box">
                 <picture>
-                    <source srcset="img/concept_pc.png" media="(min-width: 769px)">
-		            <img src="img/concept_sp.png" width="239" height="210" alt="デザインしている写真">
+                    <source srcset="/wp-content/themes/leather_shop/img/concept_pc.png" media="(min-width: 769px)">
+		            <img class="para" src="/wp-content/themes/leather_shop/img/concept_sp.png" width="239" height="210" alt="デザインしている写真">
                 </picture>
             </div>
             <div class="p-concept__right-box inview_re fadeIn_left">
@@ -125,43 +125,43 @@
           <div class="p-product__container">
             <div class="p-product__box">
                 <picture>
-                    <source srcset="img/product-01_pc.png" media="(min-width: 769px)">
-		            <img src="img/product-01_sp.png" width="250" height="250" alt="名刺入れ写真">
+                    <source srcset="/wp-content/themes/leather_shop/img/product-01_pc.png" media="(min-width: 769px)">
+		            <img src="/wp-content/themes/leather_shop/img/product-01_sp.png" width="250" height="250" alt="名刺入れ写真">
                 </picture>
                 <p class="p-product__box_text">名刺入れ</p>
             </div>
             <div class="p-product__box">
                 <picture>
-                    <source srcset="img/product-02_pc.png" media="(min-width: 769px)">
-		            <img src="img/product-02_sp.png" width="250" height="250" alt="キーケース写真">
+                    <source srcset="/wp-content/themes/leather_shop/img/product-02_pc.png" media="(min-width: 769px)">
+		            <img src="/wp-content/themes/leather_shop/img/product-02_sp.png" width="250" height="250" alt="キーケース写真">
                 </picture>
                 <p class="p-product__box_text">キーケース</p>
             </div>
             <div class="p-product__box">
                 <picture>
-                    <source srcset="img/product-03_pc.png" media="(min-width: 769px)">
-		            <img src="img/product-03_sp.png" width="250" height="250" alt="財布写真">
+                    <source srcset="/wp-content/themes/leather_shop/img/product-03_pc.png" media="(min-width: 769px)">
+		            <img src="/wp-content/themes/leather_shop/img/product-03_sp.png" width="250" height="250" alt="財布写真">
                 </picture>
                 <p class="p-product__box_text">財布</p>
             </div>
             <div class="p-product__box">
                 <picture>
-                    <source srcset="img/product-04_pc.png" media="(min-width: 769px)">
-		            <img src="img/product-04_sp.png" width="250" height="250" alt="ベルト写真">
+                    <source srcset="/wp-content/themes/leather_shop/img/product-04_pc.png" media="(min-width: 769px)">
+		            <img src="/wp-content/themes/leather_shop/img/product-04_sp.png" width="250" height="250" alt="ベルト写真">
                 </picture>
                 <p class="p-product__box_text">ベルト</p>
             </div>
             <div class="p-product__box">
                 <picture>
-                    <source srcset="img/product-05_pc.png" media="(min-width: 769px)">
-		            <img src="img/product-05_sp.png" width="250" height="250" alt="バッグ写真">
+                    <source srcset="/wp-content/themes/leather_shop/img/product-05_pc.png" media="(min-width: 769px)">
+		            <img src="/wp-content/themes/leather_shop/img/product-05_sp.png" width="250" height="250" alt="バッグ写真">
                 </picture>
                 <p class="p-product__box_text">バッグ</p>
             </div>
             <div class="p-product__box">
                 <picture>
-                    <source srcset="img/product-06_pc.png" media="(min-width: 769px)">
-		            <img src="img/product-06_sp.png" width="250" height="250" alt="靴写真">
+                    <source srcset="/wp-content/themes/leather_shop/img/product-06_pc.png" media="(min-width: 769px)">
+		            <img src="/wp-content/themes/leather_shop/img/product-06_sp.png" width="250" height="250" alt="靴写真">
                 </picture>
                 <p class="p-product__box_text">靴</p>
             </div>
@@ -259,7 +259,7 @@
     <footer class="l-footer">
         <div class="l-footer__main">
           <div class="c-shop">
-              <div class="c-shop__icon"><img src ="img/header-logo_pc.png" alt="ヘッダーアイコン" width="52" height="52"></div>
+              <div class="c-shop__icon"><img src ="/wp-content/themes/leather_shop/img/header-logo_pc.png" alt="ヘッダーアイコン" width="52" height="52"></div>
               <p class="c-shop__text">店名が入ります</p>
           </div>
           <nav class="l-footer__main_nav">
@@ -277,7 +277,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script> 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inview/1.0.0/jquery.inview.min.js"></script>
-  <script src="./js/rellax.min.js"></script>
-  <script src="./js/main.js"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
+  <script src="/wp-content/themes/leather_shop/./js/main.js"></script> 
 </body>
 </html>
