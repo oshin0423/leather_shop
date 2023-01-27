@@ -10,7 +10,7 @@
             <li><a href="#product">Product</a></li>
             <li><a href="#picky">弊社のこだわり</a></li>
             <li><a href="#contact">Contact</a></li>
-            <li><a href="#summary">会社概要</a></li>
+            <li><a href="#summary">会社概要</a></li>aaa
         </ul>
     </nav>
   </div>
