@@ -621,7 +621,7 @@ h2 {
   height: 3.47vw;
   border: #333 0.1vw solid;
   margin-top: 1vw;
-  padding: 1vw 0;
+  padding: 4vw 0 0 1vw;
 }
 @media screen and (max-width: 768px) {
   .p-contact__form_input {
