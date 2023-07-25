@@ -324,7 +324,6 @@ h2 {
     font-size: 4.27vw;
     padding: 6vw 9.5vw 0vw 8vw;
     line-height: 2.2;
-    text-align: center;
     letter-spacing: 0.03em;
   }
 }
@@ -399,7 +398,6 @@ h2 {
 
 @media screen and (max-width: 768px) {
   .p-concept__right-box {
-    text-align: center;
     margin: 0;
     padding-top: 9vw;
   }
@@ -629,7 +627,6 @@ h2 {
 }
 
 .p-picky__text {
-  text-align: center;
   padding: 4.5vw 33vw 0 33vw;
   line-height: 2.1;
   position: relative;
