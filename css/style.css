@@ -800,12 +800,8 @@ h2 {
 
 @media screen and (max-width: 768px) {
   .p-summary__contents dl dt {
-    width: 31.5vw;
+    width: 30%;
   }
-}
-
-.p-summary__contents dl dd {
-  padding-left: 2vw;
 }
 
 .l-footer {
