@@ -269,6 +269,7 @@ h2 {
   font-weight: 600;
   color: #CD5D00;
   letter-spacing: 0.08em;
+  text-align: center;
 }
 
 @media screen and (max-width: 768px) {
@@ -292,7 +293,6 @@ h2 {
 
 .p-about__left-box {
   padding-left: 16vw;
-  text-align: center;
 }
 
 @media screen and (max-width: 768px) {
@@ -394,7 +394,6 @@ h2 {
 }
 
 .p-concept__right-box {
-  text-align: center;
   margin-right: 16vw;
 }
 
